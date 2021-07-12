@@ -1,0 +1,30 @@
+# [alias]
+
+# [build]
+
+# [cargo-new]
+
+# [http]
+
+# [install]
+
+# [net]
+
+# [profile.<name>]
+
+# [registries.<name>]
+
+# [registry]
+
+# [source.<name>]
+
+# [target.<cfg>]
+
+[target.x86_64-unknown-linux-musl]
+linker = "lld"
+# runner = ""
+# rustflags = []
+
+# [target.<triple>.<links>]
+
+# [term]
